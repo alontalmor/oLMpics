@@ -1,0 +1,15 @@
+# TODO, newest allennlp is not tagged yet... (we need one after 0.9.0)
+git+git://github.com/allenai/allennlp.git
+pandas
+jsonschema
+
+# inflect
+
+# Adds an @overrides decorator for better documentation and error checking when using subclasses.
+# overrides
+
+# just for debuggin in pycharm , TODO remove this for final release...
+pytest-pycharm
+
+# Builds our documentation.
+# sphinx>=2.1.1
