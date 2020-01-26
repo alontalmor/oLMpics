@@ -4,7 +4,7 @@ This work was performed at The Allen Institute of Artificial Intelligence.
 
 This project is constantly being improved. Contributions, comments and suggestions are welcome!
 
-This repository contains the code for our paper [oLMpics - On what Language Model Pre-training Captures](https://https://arxiv.org/abs/1912.13283).
+This repository contains the code for our paper [oLMpics - On what Language Model Pre-training Captures](https://arxiv.org/abs/1912.13283).
 
 ## Datasets
 
@@ -14,6 +14,7 @@ This repository contains the code for our paper [oLMpics - On what Language Mode
 | Age-Comparison | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/number_comparison/number_comparison_age_compare_masked_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/number_comparison/number_comparison_age_compare_masked_dev.jsonl.gz)  
 | Objects-Comparison | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/size_comparison/size_comparison_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/size_comparison/size_comparison_dev.jsonl.gz) 
 | Antonym Negation | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/antonym_synonym_negation/antonym_synonym_negation_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/antonym_synonym_negation/antonym_synonym_negation_dev.jsonl.gz)
+| Property Conjunction  | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/conjunction/conjunction_filt4_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/conjunction/conjunction_filt4_dev.jsonl.gz)
 | Taxonomy Conjunction  | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/hypernym_conjunction/hypernym_conjunction_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/hypernym_conjunction/hypernym_conjunction_dev.jsonl.gz)
 | Encyclopedic Composition | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/composition/composition_v2_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/composition/composition_v2_dev.jsonl.gz)
 | Multi-Hop Composition | [train](https://olmpics.s3.us-east-2.amazonaws.com/challenge/compositional_comparison/compositional_comparison_train.jsonl.gz) , [dev](https://olmpics.s3.us-east-2.amazonaws.com/challenge/compositional_comparison/compositional_comparison_dev.jsonl.gz)

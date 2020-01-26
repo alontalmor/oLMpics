@@ -1,5 +1,5 @@
 # TODO, newest allennlp is not tagged yet... (we need one after 0.9.0)
-git+git://github.com/allenai/allennlp.git
+git+git://github.com/allenai/allennlp.git@7d0d0d9c43c00febf9286bad0bab497b1fc11911
 pandas
 jsonschema
 
